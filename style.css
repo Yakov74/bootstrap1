@@ -1,0 +1,21 @@
+.carousel-item{
+    height: 600px;
+}
+.carousel-item img{
+    height: 600px;
+}
+.container1{
+    background-color:rgb(124, 202, 226);
+}
+.container2{
+    background-color: rgb(197, 228, 185);
+}
+.row img{
+    padding:40px ;
+}
+.text{
+    text-align: center;
+}
+.navbar{
+    height: 100px;
+}
